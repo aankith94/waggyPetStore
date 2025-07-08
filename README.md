@@ -39,7 +39,7 @@
 - Node.js
 - Express.js
 - MongoDB + Mongoose
-- TypeScript
+- JavaScript
 - JWT for Auth
 - bcrypt for Password Hashing
 
