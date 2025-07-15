@@ -2,6 +2,13 @@
 
 **Waggy** is a full-stack e-commerce web application designed to sell pet products online. Built using **React + TypeScript** for the frontend and **Node.js + Express + MongoDB** for the backend.
 
+# Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06f60d7e-10c4-4960-afa0-b4367a48e60e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b513601-84c9-4cbe-9c66-2aa688a77740" />
+
+
+
 
 
 ---
